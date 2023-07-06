@@ -1,0 +1,18 @@
+.example-card {
+    max-width: 400px;
+    background-color: white;
+    
+  }
+  
+  .example-header-image {
+    background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
+    background-size: cover;
+  }
+  .example-header-image2 {
+    background-image: url('../../assets/fitness-465205_640.jpg');
+    background-size: cover;
+  }
+  .example-header-image3 {
+    background-image: url('../../assets/dumbbell-2747841_640.jpg');
+    background-size: cover;
+  }
